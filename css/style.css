@@ -1,0 +1,15 @@
+#container{
+  margin-left:10%;
+  margin-right:10%;
+  margin-top:15px;
+}
+.ingredients{
+  text-align:center;
+}
+textarea{
+  resize: none;  
+}
+.explain{
+  font-size: 15px;
+  color:grey;
+}
