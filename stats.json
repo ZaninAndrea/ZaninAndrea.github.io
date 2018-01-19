@@ -1,0 +1,58 @@
+{
+  "assetsByChunkName": {
+    "path---filosofia-2-fichte-schelling-hegel": [
+      "path---filosofia-2-fichte-schelling-hegel-cb75120c61532f15f70f.js",
+      "path---filosofia-2-fichte-schelling-hegel-cb75120c61532f15f70f.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-328ac76c6a7e1819e885.js",
+      "component---src-pages-index-js-328ac76c6a7e1819e885.js.map"
+    ],
+    "path---filosofia-nietzsche": [
+      "path---filosofia-nietzsche-bd3d7d413d0c7efdc6db.js",
+      "path---filosofia-nietzsche-bd3d7d413d0c7efdc6db.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-cf41c388d44a15e45bc5.js",
+      "component---src-layouts-index-js-cf41c388d44a15e45bc5.js.map"
+    ],
+    "component---src-templates-blog-template-js": [
+      "component---src-templates-blog-template-js-a6d8a7cdb0f3cf411297.js",
+      "component---src-templates-blog-template-js-a6d8a7cdb0f3cf411297.js.map"
+    ],
+    "path---index": [
+      "path---index-12329aa9d2e51218bc41.js",
+      "path---index-12329aa9d2e51218bc41.js.map"
+    ],
+    "path---filosofia-1-schopenhauer": [
+      "path---filosofia-1-schopenhauer-202f2f7f20fa1fbedd14.js",
+      "path---filosofia-1-schopenhauer-202f2f7f20fa1fbedd14.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
+    ],
+    "commons": [
+      "commons-68aad81503ae45628ade.js",
+      "commons-68aad81503ae45628ade.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "app": [
+      "app-c08dd72cbe44cbf465b2.js",
+      "build-js-styles.css",
+      "app-c08dd72cbe44cbf465b2.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ]
+  }
+}
