@@ -1,2 +1,0 @@
-webpackJsonp([0x81b8806e4260],{331:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:3,edges:[{node:{frontmatter:{title:"Nietzsche",index:3,category:"Filosofia"}}},{node:{frontmatter:{title:"Schopenhauer",index:2,category:"Filosofia"}}},{node:{frontmatter:{title:"Fichte, Schelling, Hegel",index:1,category:"Filosofia"}}}]}},pathContext:{}}}});
-//# sourceMappingURL=path---index-12329aa9d2e51218bc41.js.map

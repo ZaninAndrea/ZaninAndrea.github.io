@@ -1,36 +1,40 @@
 {
   "assetsByChunkName": {
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-285bfd7fb17239fbf89c.js",
-      "component---src-pages-index-js-285bfd7fb17239fbf89c.js.map"
+      "component---src-pages-index-js-458f0613991b719f9215.js",
+      "component---src-pages-index-js-458f0613991b719f9215.js.map"
     ],
     "path---filosofia-schopenhauer": [
-      "path---filosofia-schopenhauer-202f2f7f20fa1fbedd14.js",
-      "path---filosofia-schopenhauer-202f2f7f20fa1fbedd14.js.map"
+      "path---filosofia-schopenhauer-eb9c6402d6c7c47a8f04.js",
+      "path---filosofia-schopenhauer-eb9c6402d6c7c47a8f04.js.map"
     ],
     "path---filosofia-nietzsche": [
-      "path---filosofia-nietzsche-bd3d7d413d0c7efdc6db.js",
-      "path---filosofia-nietzsche-bd3d7d413d0c7efdc6db.js.map"
+      "path---filosofia-nietzsche-a7a313538cba517a0162.js",
+      "path---filosofia-nietzsche-a7a313538cba517a0162.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
+    "path---scienze-gruppi-funzionali": [
+      "path---scienze-gruppi-funzionali-4e94fb63869059720217.js",
+      "path---scienze-gruppi-funzionali-4e94fb63869059720217.js.map"
+    ],
     "path---filosofia-fichte-schelling-hegel": [
-      "path---filosofia-fichte-schelling-hegel-cb75120c61532f15f70f.js",
-      "path---filosofia-fichte-schelling-hegel-cb75120c61532f15f70f.js.map"
+      "path---filosofia-fichte-schelling-hegel-1151b07ee1111aa00ce2.js",
+      "path---filosofia-fichte-schelling-hegel-1151b07ee1111aa00ce2.js.map"
     ],
     "component---src-layouts-index-js": [
       "component---src-layouts-index-js-cf41c388d44a15e45bc5.js",
       "component---src-layouts-index-js-cf41c388d44a15e45bc5.js.map"
     ],
     "component---src-templates-blog-template-js": [
-      "component---src-templates-blog-template-js-a6d8a7cdb0f3cf411297.js",
-      "component---src-templates-blog-template-js-a6d8a7cdb0f3cf411297.js.map"
+      "component---src-templates-blog-template-js-1c3c18e9bdaa893c133b.js",
+      "component---src-templates-blog-template-js-1c3c18e9bdaa893c133b.js.map"
     ],
     "path---index": [
-      "path---index-71446edca8b13d1a1088.js",
-      "path---index-71446edca8b13d1a1088.js.map"
+      "path---index-18d2bc88dc1d437ebd22.js",
+      "path---index-18d2bc88dc1d437ebd22.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
@@ -45,9 +49,9 @@
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-88ac40e7e1acded1cd8c.js",
+      "app-97ac67ca83e406a70c0e.js",
       "build-js-styles.css",
-      "app-88ac40e7e1acded1cd8c.js.map",
+      "app-97ac67ca83e406a70c0e.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
