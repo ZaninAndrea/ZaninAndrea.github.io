@@ -32,9 +32,13 @@
       "component---src-templates-blog-template-js-1c3c18e9bdaa893c133b.js",
       "component---src-templates-blog-template-js-1c3c18e9bdaa893c133b.js.map"
     ],
+    "path---english-literature-from-austen-to-dickens": [
+      "path---english-literature-from-austen-to-dickens-cafcaf43adc7c8f10439.js",
+      "path---english-literature-from-austen-to-dickens-cafcaf43adc7c8f10439.js.map"
+    ],
     "path---index": [
-      "path---index-18d2bc88dc1d437ebd22.js",
-      "path---index-18d2bc88dc1d437ebd22.js.map"
+      "path---index-32e4aa76b3b508f2526e.js",
+      "path---index-32e4aa76b3b508f2526e.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
@@ -49,9 +53,9 @@
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-97ac67ca83e406a70c0e.js",
+      "app-1a875482f6888dacd432.js",
       "build-js-styles.css",
-      "app-97ac67ca83e406a70c0e.js.map",
+      "app-1a875482f6888dacd432.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
