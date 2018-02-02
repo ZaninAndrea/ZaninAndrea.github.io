@@ -33,8 +33,8 @@
       "component---src-templates-blog-template-js-1c3c18e9bdaa893c133b.js.map"
     ],
     "path---index": [
-      "path---index-3f349909f8fbc3f4e395.js",
-      "path---index-3f349909f8fbc3f4e395.js.map"
+      "path---index-dddc7473e099bcfb670b.js",
+      "path---index-dddc7473e099bcfb670b.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
@@ -48,14 +48,18 @@
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "path---scienze-biotecnologie": [
+      "path---scienze-biotecnologie-f6b3641fd158dbb3b971.js",
+      "path---scienze-biotecnologie-f6b3641fd158dbb3b971.js.map"
+    ],
     "path---english-literature-from-austen-to-the-victorian-age": [
       "path---english-literature-from-austen-to-the-victorian-age-eef611b2447ff5f016e4.js",
       "path---english-literature-from-austen-to-the-victorian-age-eef611b2447ff5f016e4.js.map"
     ],
     "app": [
-      "app-77ca4ca34872ec4bd861.js",
+      "app-fb31c078718c8bdf0297.js",
       "build-js-styles.css",
-      "app-77ca4ca34872ec4bd861.js.map",
+      "app-fb31c078718c8bdf0297.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
