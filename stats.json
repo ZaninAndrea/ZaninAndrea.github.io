@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-d576a92cf0fc95775833.js",
-      "component---src-pages-index-js-d576a92cf0fc95775833.js.map"
+      "component---src-pages-index-js-14164d18921e5a0ac8d7.js",
+      "component---src-pages-index-js-14164d18921e5a0ac8d7.js.map"
     ],
     "path---filosofia-schopenhauer": [
       "path---filosofia-schopenhauer-be6b4699255e0d7b664a.js",
@@ -20,6 +20,10 @@
       "path---scienze-gruppi-funzionali-739b7278c95a2f920c82.js",
       "path---scienze-gruppi-funzionali-739b7278c95a2f920c82.js.map"
     ],
+    "component---node-modules-gatsby-plugin-offline-app-shell-js": [
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
+    ],
     "path---filosofia-fichte-schelling-hegel": [
       "path---filosofia-fichte-schelling-hegel-a33e351a5f86630a2f75.js",
       "path---filosofia-fichte-schelling-hegel-a33e351a5f86630a2f75.js.map"
@@ -29,20 +33,20 @@
       "component---src-layouts-index-js-d1ce68c38feb99f2f294.js.map"
     ],
     "component---src-templates-blog-template-js": [
-      "component---src-templates-blog-template-js-60d32d03225a0e58bc71.js",
-      "component---src-templates-blog-template-js-60d32d03225a0e58bc71.js.map"
+      "component---src-templates-blog-template-js-e3651f528fb11a5c64b3.js",
+      "component---src-templates-blog-template-js-e3651f528fb11a5c64b3.js.map"
     ],
     "path---index": [
-      "path---index-87bcb745c46696850897.js",
-      "path---index-87bcb745c46696850897.js.map"
+      "path---index-3158f38a3e69ab700a5a.js",
+      "path---index-3158f38a3e69ab700a5a.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
     ],
     "commons": [
-      "commons-68aad81503ae45628ade.js",
-      "commons-68aad81503ae45628ade.js.map"
+      "commons-409290437463d6f01a5d.js",
+      "commons-409290437463d6f01a5d.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
@@ -56,10 +60,14 @@
       "path---english-literature-from-austen-to-the-victorian-age-68f107ae449a96af6348.js",
       "path---english-literature-from-austen-to-the-victorian-age-68f107ae449a96af6348.js.map"
     ],
+    "path---offline-plugin-app-shell-fallback": [
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
+    ],
     "app": [
-      "app-c1895ccd15f5337f20dc.js",
+      "app-e87ff3ef981078246a2b.js",
       "build-js-styles.css",
-      "app-c1895ccd15f5337f20dc.js.map",
+      "app-e87ff3ef981078246a2b.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
