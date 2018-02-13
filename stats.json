@@ -9,8 +9,8 @@
       "path---filosofia-schopenhauer-c11552ca377ee2648057.js.map"
     ],
     "path---filosofia-nietzsche": [
-      "path---filosofia-nietzsche-59df88d1ee78da9a0ea8.js",
-      "path---filosofia-nietzsche-59df88d1ee78da9a0ea8.js.map"
+      "path---filosofia-nietzsche-d40c7f3a18c717f6a273.js",
+      "path---filosofia-nietzsche-d40c7f3a18c717f6a273.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -37,8 +37,12 @@
       "component---src-templates-blog-template-js-369f3499f5fdc8a56fee.js.map"
     ],
     "path---index": [
-      "path---index-a1c07321777afb435c7d.js",
-      "path---index-a1c07321777afb435c7d.js.map"
+      "path---index-13366e11395db97a4c7d.js",
+      "path---index-13366e11395db97a4c7d.js.map"
+    ],
+    "path---filosofia-freud": [
+      "path---filosofia-freud-2b5e27578b4d6c86788e.js",
+      "path---filosofia-freud-2b5e27578b4d6c86788e.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
@@ -65,9 +69,9 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-791a787f538cc8bcd011.js",
+      "app-8067956bc32425624872.js",
       "build-js-styles.css",
-      "app-791a787f538cc8bcd011.js.map",
+      "app-8067956bc32425624872.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
