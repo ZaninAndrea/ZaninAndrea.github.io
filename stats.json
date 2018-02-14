@@ -36,9 +36,13 @@
       "component---src-templates-blog-template-js-369f3499f5fdc8a56fee.js",
       "component---src-templates-blog-template-js-369f3499f5fdc8a56fee.js.map"
     ],
+    "path---italiano-manzoni": [
+      "path---italiano-manzoni-79980db5af24b7ab7f14.js",
+      "path---italiano-manzoni-79980db5af24b7ab7f14.js.map"
+    ],
     "path---index": [
-      "path---index-b92e2203c4d9f5d3c5c2.js",
-      "path---index-b92e2203c4d9f5d3c5c2.js.map"
+      "path---index-376740de70530285d19b.js",
+      "path---index-376740de70530285d19b.js.map"
     ],
     "path---filosofia-freud": [
       "path---filosofia-freud-c1cc3eeff0afda064bb0.js",
@@ -69,9 +73,9 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-d4b0e11d67553dcaf2cd.js",
+      "app-cec70b91451ab9c78f24.js",
       "build-js-styles.css",
-      "app-d4b0e11d67553dcaf2cd.js.map",
+      "app-cec70b91451ab9c78f24.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
