@@ -16,6 +16,10 @@
       "path---filosofia-nietzsche-82e5cedf445397424fff.js",
       "path---filosofia-nietzsche-82e5cedf445397424fff.js.map"
     ],
+    "path---storia-la-prima-guerra-mondiale-e-il-biennio-rosso": [
+      "path---storia-la-prima-guerra-mondiale-e-il-biennio-rosso-0c1fef1205325b639d44.js",
+      "path---storia-la-prima-guerra-mondiale-e-il-biennio-rosso-0c1fef1205325b639d44.js.map"
+    ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
@@ -45,8 +49,8 @@
       "path---italiano-manzoni-3833e22f9267388a5e92.js.map"
     ],
     "path---index": [
-      "path---index-d46452572a1d12d87785.js",
-      "path---index-d46452572a1d12d87785.js.map"
+      "path---index-2d7beb77dd4cbbab6559.js",
+      "path---index-2d7beb77dd4cbbab6559.js.map"
     ],
     "path---filosofia-freud": [
       "path---filosofia-freud-d89d4d6fc6c59b458349.js",
@@ -81,9 +85,9 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-13f09d753e8d8a9f5b09.js",
+      "app-0db343ad7fa75dc495fe.js",
       "build-js-styles.css",
-      "app-13f09d753e8d8a9f5b09.js.map",
+      "app-0db343ad7fa75dc495fe.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
