@@ -45,12 +45,12 @@
       "path---italiano-manzoni-0fc4042184ad890a168e.js.map"
     ],
     "path---storia-la-prima-guerra-mondiale": [
-      "path---storia-la-prima-guerra-mondiale-e307b6b911cc4b188756.js",
-      "path---storia-la-prima-guerra-mondiale-e307b6b911cc4b188756.js.map"
+      "path---storia-la-prima-guerra-mondiale-c7dbdd27bbb4afd72c7d.js",
+      "path---storia-la-prima-guerra-mondiale-c7dbdd27bbb4afd72c7d.js.map"
     ],
     "path---index": [
-      "path---index-865f53fa570056e8d83e.js",
-      "path---index-865f53fa570056e8d83e.js.map"
+      "path---index-130ef2325aa6a30fc8d7.js",
+      "path---index-130ef2325aa6a30fc8d7.js.map"
     ],
     "path---filosofia-freud": [
       "path---filosofia-freud-d89d4d6fc6c59b458349.js",
@@ -85,10 +85,14 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-52e4258a4131ce7b8ebc.js",
+      "app-db442f9100eae8383706.js",
       "build-js-styles.css",
-      "app-52e4258a4131ce7b8ebc.js.map",
+      "app-db442f9100eae8383706.js.map",
       "build-js-styles.css.map"
+    ],
+    "path---storia-la-rivoluzione-bolscevica-e-il-biennio-rosso": [
+      "path---storia-la-rivoluzione-bolscevica-e-il-biennio-rosso-bf4f9e94bbcd9bfa5cc3.js",
+      "path---storia-la-rivoluzione-bolscevica-e-il-biennio-rosso-bf4f9e94bbcd9bfa5cc3.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
