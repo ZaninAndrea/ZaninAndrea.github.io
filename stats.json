@@ -49,8 +49,8 @@
       "path---storia-la-prima-guerra-mondiale-2a74e9974ac0a5caef98.js.map"
     ],
     "path---index": [
-      "path---index-37fbbdf3a65095055c03.js",
-      "path---index-37fbbdf3a65095055c03.js.map"
+      "path---index-93dc39be4866dae84c83.js",
+      "path---index-93dc39be4866dae84c83.js.map"
     ],
     "path---english-literature-dickens-and-wilde": [
       "path---english-literature-dickens-and-wilde-ae1f44736c632aa94192.js",
@@ -93,9 +93,9 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-5902be1ea17505ca54a1.js",
+      "app-241685dab4457b67573b.js",
       "build-js-styles.css",
-      "app-5902be1ea17505ca54a1.js.map",
+      "app-241685dab4457b67573b.js.map",
       "build-js-styles.css.map"
     ],
     "path---storia-la-rivoluzione-bolscevica-e-il-biennio-rosso": [
@@ -105,6 +105,10 @@
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
       "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---italiano-dante-paradiso": [
+      "path---italiano-dante-paradiso-f08c391384dae35985b6.js",
+      "path---italiano-dante-paradiso-f08c391384dae35985b6.js.map"
     ]
   }
 }
