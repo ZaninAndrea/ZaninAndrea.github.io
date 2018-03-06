@@ -41,16 +41,16 @@
       "component---src-templates-blog-template-js-369f3499f5fdc8a56fee.js.map"
     ],
     "path---italiano-manzoni": [
-      "path---italiano-manzoni-0fc4042184ad890a168e.js",
-      "path---italiano-manzoni-0fc4042184ad890a168e.js.map"
+      "path---italiano-manzoni-a8c87584450e86b59e3e.js",
+      "path---italiano-manzoni-a8c87584450e86b59e3e.js.map"
     ],
     "path---storia-la-prima-guerra-mondiale": [
       "path---storia-la-prima-guerra-mondiale-2a74e9974ac0a5caef98.js",
       "path---storia-la-prima-guerra-mondiale-2a74e9974ac0a5caef98.js.map"
     ],
     "path---index": [
-      "path---index-e3ac15b0cd565c9f8b50.js",
-      "path---index-e3ac15b0cd565c9f8b50.js.map"
+      "path---index-37fbbdf3a65095055c03.js",
+      "path---index-37fbbdf3a65095055c03.js.map"
     ],
     "path---english-literature-dickens-and-wilde": [
       "path---english-literature-dickens-and-wilde-ae1f44736c632aa94192.js",
@@ -76,9 +76,13 @@
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "path---italiano-gadda": [
+      "path---italiano-gadda-e29da079384c48a59e44.js",
+      "path---italiano-gadda-e29da079384c48a59e44.js.map"
+    ],
     "path---scienze-biotecnologie": [
-      "path---scienze-biotecnologie-fe4447a30678aa3796be.js",
-      "path---scienze-biotecnologie-fe4447a30678aa3796be.js.map"
+      "path---scienze-biotecnologie-967e38992322cc79193f.js",
+      "path---scienze-biotecnologie-967e38992322cc79193f.js.map"
     ],
     "path---english-literature-from-austen-to-the-victorian-age": [
       "path---english-literature-from-austen-to-the-victorian-age-5be8c1a2f29c3ebcfc56.js",
@@ -89,9 +93,9 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-079c1d84a7e8625df555.js",
+      "app-5902be1ea17505ca54a1.js",
       "build-js-styles.css",
-      "app-079c1d84a7e8625df555.js.map",
+      "app-5902be1ea17505ca54a1.js.map",
       "build-js-styles.css.map"
     ],
     "path---storia-la-rivoluzione-bolscevica-e-il-biennio-rosso": [
