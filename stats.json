@@ -49,8 +49,8 @@
       "path---storia-la-prima-guerra-mondiale-2a74e9974ac0a5caef98.js.map"
     ],
     "path---index": [
-      "path---index-3fa62334789aa2d25eca.js",
-      "path---index-3fa62334789aa2d25eca.js.map"
+      "path---index-f6e803fc1ca816bd0846.js",
+      "path---index-f6e803fc1ca816bd0846.js.map"
     ],
     "path---english-literature-dickens-and-wilde": [
       "path---english-literature-dickens-and-wilde-ae1f44736c632aa94192.js",
@@ -93,9 +93,9 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-1010a18cdb86c22610bd.js",
+      "app-c4a8d9f47b466fa583ac.js",
       "build-js-styles.css",
-      "app-1010a18cdb86c22610bd.js.map",
+      "app-c4a8d9f47b466fa583ac.js.map",
       "build-js-styles.css.map"
     ],
     "path---storia-la-rivoluzione-bolscevica-e-il-biennio-rosso": [
@@ -109,6 +109,10 @@
     "path---italiano-dante-paradiso": [
       "path---italiano-dante-paradiso-52810bd95840db12292b.js",
       "path---italiano-dante-paradiso-52810bd95840db12292b.js.map"
+    ],
+    "path---storia-il-fascismo": [
+      "path---storia-il-fascismo-29669dafab4d883258fa.js",
+      "path---storia-il-fascismo-29669dafab4d883258fa.js.map"
     ]
   }
 }
