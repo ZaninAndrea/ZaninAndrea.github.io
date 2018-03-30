@@ -8,6 +8,10 @@
       "component---src-pages-index-js-14164d18921e5a0ac8d7.js",
       "component---src-pages-index-js-14164d18921e5a0ac8d7.js.map"
     ],
+    "path---storia-i-roaring-twenties": [
+      "path---storia-i-roaring-twenties-3503a3a508c10e3f78ca.js",
+      "path---storia-i-roaring-twenties-3503a3a508c10e3f78ca.js.map"
+    ],
     "path---filosofia-schopenhauer": [
       "path---filosofia-schopenhauer-c11552ca377ee2648057.js",
       "path---filosofia-schopenhauer-c11552ca377ee2648057.js.map"
@@ -45,12 +49,12 @@
       "path---italiano-manzoni-a8c87584450e86b59e3e.js.map"
     ],
     "path---storia-la-prima-guerra-mondiale": [
-      "path---storia-la-prima-guerra-mondiale-2a74e9974ac0a5caef98.js",
-      "path---storia-la-prima-guerra-mondiale-2a74e9974ac0a5caef98.js.map"
+      "path---storia-la-prima-guerra-mondiale-73b938471587c7647553.js",
+      "path---storia-la-prima-guerra-mondiale-73b938471587c7647553.js.map"
     ],
     "path---index": [
-      "path---index-f6e803fc1ca816bd0846.js",
-      "path---index-f6e803fc1ca816bd0846.js.map"
+      "path---index-a7b14a99b8a6c8c55b5e.js",
+      "path---index-a7b14a99b8a6c8c55b5e.js.map"
     ],
     "path---english-literature-dickens-and-wilde": [
       "path---english-literature-dickens-and-wilde-ae1f44736c632aa94192.js",
@@ -93,9 +97,9 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-c4a8d9f47b466fa583ac.js",
+      "app-5edc422c3b76dce06e6a.js",
       "build-js-styles.css",
-      "app-c4a8d9f47b466fa583ac.js.map",
+      "app-5edc422c3b76dce06e6a.js.map",
       "build-js-styles.css.map"
     ],
     "path---storia-la-rivoluzione-bolscevica-e-il-biennio-rosso": [
