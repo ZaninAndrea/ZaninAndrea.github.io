@@ -20,6 +20,10 @@
       "path---filosofia-nietzsche-82e5cedf445397424fff.js",
       "path---filosofia-nietzsche-82e5cedf445397424fff.js.map"
     ],
+    "path---scienze-metabolismo": [
+      "path---scienze-metabolismo-66d95ba15d5a4984e29d.js",
+      "path---scienze-metabolismo-66d95ba15d5a4984e29d.js.map"
+    ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
@@ -48,13 +52,17 @@
       "path---italiano-manzoni-a8c87584450e86b59e3e.js",
       "path---italiano-manzoni-a8c87584450e86b59e3e.js.map"
     ],
+    "path---fisica-elettromagnetismo": [
+      "path---fisica-elettromagnetismo-d6f0250f7239e9346a62.js",
+      "path---fisica-elettromagnetismo-d6f0250f7239e9346a62.js.map"
+    ],
     "path---storia-la-prima-guerra-mondiale": [
       "path---storia-la-prima-guerra-mondiale-73b938471587c7647553.js",
       "path---storia-la-prima-guerra-mondiale-73b938471587c7647553.js.map"
     ],
     "path---index": [
-      "path---index-a7b14a99b8a6c8c55b5e.js",
-      "path---index-a7b14a99b8a6c8c55b5e.js.map"
+      "path---index-8a4d13845a02f5711cd5.js",
+      "path---index-8a4d13845a02f5711cd5.js.map"
     ],
     "path---english-literature-dickens-and-wilde": [
       "path---english-literature-dickens-and-wilde-ae1f44736c632aa94192.js",
@@ -97,9 +105,9 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-5edc422c3b76dce06e6a.js",
+      "app-9021e34a829713839ad8.js",
       "build-js-styles.css",
-      "app-5edc422c3b76dce06e6a.js.map",
+      "app-9021e34a829713839ad8.js.map",
       "build-js-styles.css.map"
     ],
     "path---storia-la-rivoluzione-bolscevica-e-il-biennio-rosso": [
