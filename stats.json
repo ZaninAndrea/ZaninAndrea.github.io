@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "path---english-literature-bronte-whitman-and-the-modern-age": [
-      "path---english-literature-bronte-whitman-and-the-modern-age-6c802dfd03952d3e6410.js",
-      "path---english-literature-bronte-whitman-and-the-modern-age-6c802dfd03952d3e6410.js.map"
+      "path---english-literature-bronte-whitman-and-the-modern-age-d05da7fc05c3d977ecc3.js",
+      "path---english-literature-bronte-whitman-and-the-modern-age-d05da7fc05c3d977ecc3.js.map"
     ],
     "path---italiano-montale": [
       "path---italiano-montale-03b84dee8674f2b19538.js",
@@ -65,8 +65,8 @@
       "path---storia-la-prima-guerra-mondiale-73b938471587c7647553.js.map"
     ],
     "path---index": [
-      "path---index-95b3b4668d22f376a8ee.js",
-      "path---index-95b3b4668d22f376a8ee.js.map"
+      "path---index-2126a2a62eedd91d225b.js",
+      "path---index-2126a2a62eedd91d225b.js.map"
     ],
     "path---english-literature-dickens-and-wilde": [
       "path---english-literature-dickens-and-wilde-ae1f44736c632aa94192.js",
@@ -109,9 +109,9 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-8539979f17fec2a6a4c8.js",
+      "app-2bbff4f77529df0dc19a.js",
       "build-js-styles.css",
-      "app-8539979f17fec2a6a4c8.js.map",
+      "app-2bbff4f77529df0dc19a.js.map",
       "build-js-styles.css.map"
     ],
     "path---storia-la-rivoluzione-bolscevica-e-il-biennio-rosso": [
