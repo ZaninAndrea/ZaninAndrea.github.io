@@ -1,5 +1,9 @@
 {
   "assetsByChunkName": {
+    "path---english-literature-bronte-whitman-and-the-modern-age": [
+      "path---english-literature-bronte-whitman-and-the-modern-age-6c802dfd03952d3e6410.js",
+      "path---english-literature-bronte-whitman-and-the-modern-age-6c802dfd03952d3e6410.js.map"
+    ],
     "path---italiano-montale": [
       "path---italiano-montale-03b84dee8674f2b19538.js",
       "path---italiano-montale-03b84dee8674f2b19538.js.map"
@@ -21,8 +25,8 @@
       "path---filosofia-nietzsche-82e5cedf445397424fff.js.map"
     ],
     "path---scienze-metabolismo": [
-      "path---scienze-metabolismo-66d95ba15d5a4984e29d.js",
-      "path---scienze-metabolismo-66d95ba15d5a4984e29d.js.map"
+      "path---scienze-metabolismo-0e33502f1a199deb387f.js",
+      "path---scienze-metabolismo-0e33502f1a199deb387f.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -53,16 +57,16 @@
       "path---italiano-manzoni-a8c87584450e86b59e3e.js.map"
     ],
     "path---fisica-elettromagnetismo": [
-      "path---fisica-elettromagnetismo-d6f0250f7239e9346a62.js",
-      "path---fisica-elettromagnetismo-d6f0250f7239e9346a62.js.map"
+      "path---fisica-elettromagnetismo-617f941de18b791b3cde.js",
+      "path---fisica-elettromagnetismo-617f941de18b791b3cde.js.map"
     ],
     "path---storia-la-prima-guerra-mondiale": [
       "path---storia-la-prima-guerra-mondiale-73b938471587c7647553.js",
       "path---storia-la-prima-guerra-mondiale-73b938471587c7647553.js.map"
     ],
     "path---index": [
-      "path---index-8a4d13845a02f5711cd5.js",
-      "path---index-8a4d13845a02f5711cd5.js.map"
+      "path---index-95b3b4668d22f376a8ee.js",
+      "path---index-95b3b4668d22f376a8ee.js.map"
     ],
     "path---english-literature-dickens-and-wilde": [
       "path---english-literature-dickens-and-wilde-ae1f44736c632aa94192.js",
@@ -105,9 +109,9 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-9021e34a829713839ad8.js",
+      "app-8539979f17fec2a6a4c8.js",
       "build-js-styles.css",
-      "app-9021e34a829713839ad8.js.map",
+      "app-8539979f17fec2a6a4c8.js.map",
       "build-js-styles.css.map"
     ],
     "path---storia-la-rivoluzione-bolscevica-e-il-biennio-rosso": [
