@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "path---english-literature-bronte-whitman-and-the-modern-age": [
-      "path---english-literature-bronte-whitman-and-the-modern-age-d05da7fc05c3d977ecc3.js",
-      "path---english-literature-bronte-whitman-and-the-modern-age-d05da7fc05c3d977ecc3.js.map"
+      "path---english-literature-bronte-whitman-and-the-modern-age-d8f7a316c3f0b25955b9.js",
+      "path---english-literature-bronte-whitman-and-the-modern-age-d8f7a316c3f0b25955b9.js.map"
     ],
     "path---italiano-montale": [
       "path---italiano-montale-03b84dee8674f2b19538.js",
@@ -11,10 +11,6 @@
     "component---src-pages-index-js": [
       "component---src-pages-index-js-14164d18921e5a0ac8d7.js",
       "component---src-pages-index-js-14164d18921e5a0ac8d7.js.map"
-    ],
-    "path---storia-i-roaring-twenties": [
-      "path---storia-i-roaring-twenties-3503a3a508c10e3f78ca.js",
-      "path---storia-i-roaring-twenties-3503a3a508c10e3f78ca.js.map"
     ],
     "path---filosofia-schopenhauer": [
       "path---filosofia-schopenhauer-c11552ca377ee2648057.js",
@@ -65,8 +61,8 @@
       "path---storia-la-prima-guerra-mondiale-73b938471587c7647553.js.map"
     ],
     "path---index": [
-      "path---index-2126a2a62eedd91d225b.js",
-      "path---index-2126a2a62eedd91d225b.js.map"
+      "path---index-ac32044c920546f397a7.js",
+      "path---index-ac32044c920546f397a7.js.map"
     ],
     "path---english-literature-dickens-and-wilde": [
       "path---english-literature-dickens-and-wilde-ae1f44736c632aa94192.js",
@@ -79,6 +75,10 @@
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
+    ],
+    "path---storia-dai-roaring-twenties-alla-grande-depressione": [
+      "path---storia-dai-roaring-twenties-alla-grande-depressione-ae3d3c0fbb4f589361ad.js",
+      "path---storia-dai-roaring-twenties-alla-grande-depressione-ae3d3c0fbb4f589361ad.js.map"
     ],
     "path---matematica-integrali": [
       "path---matematica-integrali-84c47583a6f6db0a1e69.js",
@@ -109,9 +109,9 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-2bbff4f77529df0dc19a.js",
+      "app-38ff465d14ab8a8992fc.js",
       "build-js-styles.css",
-      "app-2bbff4f77529df0dc19a.js.map",
+      "app-38ff465d14ab8a8992fc.js.map",
       "build-js-styles.css.map"
     ],
     "path---storia-la-rivoluzione-bolscevica-e-il-biennio-rosso": [
