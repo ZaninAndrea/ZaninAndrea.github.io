@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "path---storia-la-seconda-guerra-mondiale": [
-      "path---storia-la-seconda-guerra-mondiale-cacf2de4f23e1960313a.js",
-      "path---storia-la-seconda-guerra-mondiale-cacf2de4f23e1960313a.js.map"
+      "path---storia-la-seconda-guerra-mondiale-b3be60d7c297f8a1ee7d.js",
+      "path---storia-la-seconda-guerra-mondiale-b3be60d7c297f8a1ee7d.js.map"
     ],
     "path---english-literature-bronte-whitman-and-the-modern-age": [
       "path---english-literature-bronte-whitman-and-the-modern-age-d8f7a316c3f0b25955b9.js",
@@ -101,8 +101,8 @@
       "path---italiano-gadda-e29da079384c48a59e44.js.map"
     ],
     "path---scienze-biotecnologie": [
-      "path---scienze-biotecnologie-38a962501d3c7ed00a5d.js",
-      "path---scienze-biotecnologie-38a962501d3c7ed00a5d.js.map"
+      "path---scienze-biotecnologie-c7b076f2f5abdbe59b09.js",
+      "path---scienze-biotecnologie-c7b076f2f5abdbe59b09.js.map"
     ],
     "path---english-literature-from-austen-to-the-victorian-age": [
       "path---english-literature-from-austen-to-the-victorian-age-5be8c1a2f29c3ebcfc56.js",
@@ -117,9 +117,9 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-db824b45af423930fd1a.js",
+      "app-98b8b05238029a70b888.js",
       "build-js-styles.css",
-      "app-db824b45af423930fd1a.js.map",
+      "app-98b8b05238029a70b888.js.map",
       "build-js-styles.css.map"
     ],
     "path---storia-la-rivoluzione-bolscevica-e-il-biennio-rosso": [
