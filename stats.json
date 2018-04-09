@@ -32,10 +32,6 @@
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
-    "path---scienze-gruppi-funzionali": [
-      "path---scienze-gruppi-funzionali-78b452e6fe2decac272c.js",
-      "path---scienze-gruppi-funzionali-78b452e6fe2decac272c.js.map"
-    ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
@@ -69,8 +65,8 @@
       "path---storia-la-prima-guerra-mondiale-a17c6590fb6267c63202.js.map"
     ],
     "path---index": [
-      "path---index-36a01303beea6acafc2f.js",
-      "path---index-36a01303beea6acafc2f.js.map"
+      "path---index-712d28223a6f72314c2d.js",
+      "path---index-712d28223a6f72314c2d.js.map"
     ],
     "path---english-literature-dickens-and-wilde": [
       "path---english-literature-dickens-and-wilde-ae1f44736c632aa94192.js",
@@ -117,9 +113,9 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-98b8b05238029a70b888.js",
+      "app-ff3d00c23e6d9dffab00.js",
       "build-js-styles.css",
-      "app-98b8b05238029a70b888.js.map",
+      "app-ff3d00c23e6d9dffab00.js.map",
       "build-js-styles.css.map"
     ],
     "path---storia-la-rivoluzione-bolscevica-e-il-biennio-rosso": [
@@ -137,6 +133,10 @@
     "path---storia-il-fascismo": [
       "path---storia-il-fascismo-51a02ebcc30b5ae5add9.js",
       "path---storia-il-fascismo-51a02ebcc30b5ae5add9.js.map"
+    ],
+    "path---scienze-chimica-organica": [
+      "path---scienze-chimica-organica-88c388d51c5e7f674857.js",
+      "path---scienze-chimica-organica-88c388d51c5e7f674857.js.map"
     ]
   }
 }
