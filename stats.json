@@ -1,5 +1,9 @@
 {
   "assetsByChunkName": {
+    "path---storia-la-seconda-guerra-mondiale": [
+      "path---storia-la-seconda-guerra-mondiale-cacf2de4f23e1960313a.js",
+      "path---storia-la-seconda-guerra-mondiale-cacf2de4f23e1960313a.js.map"
+    ],
     "path---english-literature-bronte-whitman-and-the-modern-age": [
       "path---english-literature-bronte-whitman-and-the-modern-age-d8f7a316c3f0b25955b9.js",
       "path---english-literature-bronte-whitman-and-the-modern-age-d8f7a316c3f0b25955b9.js.map"
@@ -61,12 +65,12 @@
       "path---fisica-elettromagnetismo-8ee70a3edd871844c1d2.js.map"
     ],
     "path---storia-la-prima-guerra-mondiale": [
-      "path---storia-la-prima-guerra-mondiale-73b938471587c7647553.js",
-      "path---storia-la-prima-guerra-mondiale-73b938471587c7647553.js.map"
+      "path---storia-la-prima-guerra-mondiale-a17c6590fb6267c63202.js",
+      "path---storia-la-prima-guerra-mondiale-a17c6590fb6267c63202.js.map"
     ],
     "path---index": [
-      "path---index-1489f384c5fafc4933de.js",
-      "path---index-1489f384c5fafc4933de.js.map"
+      "path---index-36a01303beea6acafc2f.js",
+      "path---index-36a01303beea6acafc2f.js.map"
     ],
     "path---english-literature-dickens-and-wilde": [
       "path---english-literature-dickens-and-wilde-ae1f44736c632aa94192.js",
@@ -79,10 +83,6 @@
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
-    ],
-    "path---storia-dai-roaring-twenties-alla-grande-depressione": [
-      "path---storia-dai-roaring-twenties-alla-grande-depressione-ae3d3c0fbb4f589361ad.js",
-      "path---storia-dai-roaring-twenties-alla-grande-depressione-ae3d3c0fbb4f589361ad.js.map"
     ],
     "path---matematica-integrali": [
       "path---matematica-integrali-84c47583a6f6db0a1e69.js",
@@ -108,14 +108,18 @@
       "path---english-literature-from-austen-to-the-victorian-age-5be8c1a2f29c3ebcfc56.js",
       "path---english-literature-from-austen-to-the-victorian-age-5be8c1a2f29c3ebcfc56.js.map"
     ],
+    "path---storia-tra-le-2-guerre": [
+      "path---storia-tra-le-2-guerre-3340eaa782d0d4834f82.js",
+      "path---storia-tra-le-2-guerre-3340eaa782d0d4834f82.js.map"
+    ],
     "path---offline-plugin-app-shell-fallback": [
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-b09da7d3dfbb193075c0.js",
+      "app-db824b45af423930fd1a.js",
       "build-js-styles.css",
-      "app-b09da7d3dfbb193075c0.js.map",
+      "app-db824b45af423930fd1a.js.map",
       "build-js-styles.css.map"
     ],
     "path---storia-la-rivoluzione-bolscevica-e-il-biennio-rosso": [
