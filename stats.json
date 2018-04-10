@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "path---storia-la-seconda-guerra-mondiale": [
-      "path---storia-la-seconda-guerra-mondiale-b3be60d7c297f8a1ee7d.js",
-      "path---storia-la-seconda-guerra-mondiale-b3be60d7c297f8a1ee7d.js.map"
+      "path---storia-la-seconda-guerra-mondiale-71b28636119aff57d9d7.js",
+      "path---storia-la-seconda-guerra-mondiale-71b28636119aff57d9d7.js.map"
     ],
     "path---english-literature-bronte-whitman-and-the-modern-age": [
       "path---english-literature-bronte-whitman-and-the-modern-age-d8f7a316c3f0b25955b9.js",
@@ -113,9 +113,9 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-ff3d00c23e6d9dffab00.js",
+      "app-5099c4ac70a7a2a0f50f.js",
       "build-js-styles.css",
-      "app-ff3d00c23e6d9dffab00.js.map",
+      "app-5099c4ac70a7a2a0f50f.js.map",
       "build-js-styles.css.map"
     ],
     "path---storia-la-rivoluzione-bolscevica-e-il-biennio-rosso": [
