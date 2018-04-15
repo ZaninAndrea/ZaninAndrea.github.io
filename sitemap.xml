@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url> <loc>http://zaninandrea.github.io/offline-plugin-app-shell-fallback/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://zaninandrea.github.io/Filosofia/nietzsche</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://zaninandrea.github.io/Filosofia/fichte-schelling-hegel</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://zaninandrea.github.io/Filosofia/freud</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://zaninandrea.github.io/Filosofia/schopenhauer</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://zaninandrea.github.io/Fisica/ipotesi-atomiche-e-fisica-quantistica</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://zaninandrea.github.io/Fisica/elettromagnetismo</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://zaninandrea.github.io/Filosofia/fichte-schelling-hegel</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://zaninandrea.github.io/Filosofia/schopenhauer</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://zaninandrea.github.io/Filosofia/freud</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://zaninandrea.github.io/English literature/dickens-and-wilde</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://zaninandrea.github.io/Italiano/gadda</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://zaninandrea.github.io/Filosofia/nietzsche</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://zaninandrea.github.io/English literature/bronte-whitman-and-the-modern-age</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://zaninandrea.github.io/English literature/dickens-and-wilde</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://zaninandrea.github.io/English literature/from-austen-to-the-victorian-age</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://zaninandrea.github.io/Italiano/gadda</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://zaninandrea.github.io/Italiano/leopardi</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://zaninandrea.github.io/Italiano/manzoni</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://zaninandrea.github.io/Italiano/montale</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://zaninandrea.github.io/Scienze/biotecnologie</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://zaninandrea.github.io/Matematica/integrali</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://zaninandrea.github.io/Scienze/metabolismo</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://zaninandrea.github.io/Storia/la-rivoluzione-bolscevica-e-il-biennio-rosso</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://zaninandrea.github.io/Storia/il-fascismo</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://zaninandrea.github.io/Storia/tra-le-2-guerre</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://zaninandrea.github.io/Storia/la-prima-guerra-mondiale</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://zaninandrea.github.io/Storia/la-seconda-guerra-mondiale</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://zaninandrea.github.io/Storia/la-prima-guerra-mondiale</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://zaninandrea.github.io/Scienze/biotecnologie</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://zaninandrea.github.io/Scienze/metabolismo</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://zaninandrea.github.io/Scienze/chimica-organica</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://zaninandrea.github.io/Italiano/dante---paradiso</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://zaninandrea.github.io/Italiano/leopardi</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://zaninandrea.github.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
