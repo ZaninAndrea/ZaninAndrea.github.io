@@ -1,5 +1,9 @@
 {
   "assetsByChunkName": {
+    "path---filosofia-feuerbach-marx-e-la-scuola-di-francoforte": [
+      "path---filosofia-feuerbach-marx-e-la-scuola-di-francoforte-97ae52a1cf6f24d1934f.js",
+      "path---filosofia-feuerbach-marx-e-la-scuola-di-francoforte-97ae52a1cf6f24d1934f.js.map"
+    ],
     "path---storia-la-seconda-guerra-mondiale": [
       "path---storia-la-seconda-guerra-mondiale-71b28636119aff57d9d7.js",
       "path---storia-la-seconda-guerra-mondiale-71b28636119aff57d9d7.js.map"
@@ -31,6 +35,10 @@
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
+    ],
+    "path---storia-imperialism": [
+      "path---storia-imperialism-e259fb1605e01594a4de.js",
+      "path---storia-imperialism-e259fb1605e01594a4de.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
@@ -65,8 +73,8 @@
       "path---storia-la-prima-guerra-mondiale-a17c6590fb6267c63202.js.map"
     ],
     "path---index": [
-      "path---index-5b586c65e3d733125b46.js",
-      "path---index-5b586c65e3d733125b46.js.map"
+      "path---index-b28d184cbc1265a26f8d.js",
+      "path---index-b28d184cbc1265a26f8d.js.map"
     ],
     "path---english-literature-dickens-and-wilde": [
       "path---english-literature-dickens-and-wilde-ae1f44736c632aa94192.js",
@@ -113,9 +121,9 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-3495fd258a3ca8365d29.js",
+      "app-9ffacb4b213536942f71.js",
       "build-js-styles.css",
-      "app-3495fd258a3ca8365d29.js.map",
+      "app-9ffacb4b213536942f71.js.map",
       "build-js-styles.css.map"
     ],
     "path---italiano-leopardi": [
