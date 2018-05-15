@@ -36,6 +36,10 @@
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
+    "path---storia-italia-post-unificazione": [
+      "path---storia-italia-post-unificazione-6f9da4c75fe0196d05c2.js",
+      "path---storia-italia-post-unificazione-6f9da4c75fe0196d05c2.js.map"
+    ],
     "path---storia-imperialism": [
       "path---storia-imperialism-e259fb1605e01594a4de.js",
       "path---storia-imperialism-e259fb1605e01594a4de.js.map"
@@ -73,8 +77,8 @@
       "path---storia-la-prima-guerra-mondiale-a17c6590fb6267c63202.js.map"
     ],
     "path---index": [
-      "path---index-b28d184cbc1265a26f8d.js",
-      "path---index-b28d184cbc1265a26f8d.js.map"
+      "path---index-a4eb30d0c449c05fece7.js",
+      "path---index-a4eb30d0c449c05fece7.js.map"
     ],
     "path---english-literature-dickens-and-wilde": [
       "path---english-literature-dickens-and-wilde-ae1f44736c632aa94192.js",
@@ -121,9 +125,9 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-9ffacb4b213536942f71.js",
+      "app-dc1c9fffb4e285e5c9da.js",
       "build-js-styles.css",
-      "app-9ffacb4b213536942f71.js.map",
+      "app-dc1c9fffb4e285e5c9da.js.map",
       "build-js-styles.css.map"
     ],
     "path---italiano-leopardi": [
@@ -141,6 +145,10 @@
     "path---italiano-dante-paradiso": [
       "path---italiano-dante-paradiso-52810bd95840db12292b.js",
       "path---italiano-dante-paradiso-52810bd95840db12292b.js.map"
+    ],
+    "path---english-literature-the-modernists": [
+      "path---english-literature-the-modernists-c4c91bc33147bfd0841e.js",
+      "path---english-literature-the-modernists-c4c91bc33147bfd0841e.js.map"
     ],
     "path---storia-il-fascismo": [
       "path---storia-il-fascismo-51a02ebcc30b5ae5add9.js",
