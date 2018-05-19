@@ -1,0 +1,2 @@
+webpackJsonp([0xa8f6ce06a6a3],{494:function(a,i){a.exports={data:{nimblRenderedHtml:{html:'<h1 id="naturalismo">Naturalismo</h1>\n<h2 id="assommoir-emil-zola">Assommoir, Emil Zola</h2>\n',frontmatter:{title:"Definizioni",pdfCompletoPath:null,draft:!0},headings:[{value:"<p>Naturalismo</p>\n",depth:1,rawText:"Naturalismo\r"},{value:"<p>Assommoir, Emil Zola</p>\n",depth:2,rawText:"Assommoir, Emil Zola\r"}]}},pathContext:{category:"Italiano",title:"Definizioni"}}}});
+//# sourceMappingURL=path---italiano-definizioni-a82c101a30e986b758dd.js.map
