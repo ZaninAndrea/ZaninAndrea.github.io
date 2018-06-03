@@ -77,8 +77,8 @@
       "path---storia-la-prima-guerra-mondiale-a17c6590fb6267c63202.js.map"
     ],
     "path---index": [
-      "path---index-fadae0239dd6ce67dc2d.js",
-      "path---index-fadae0239dd6ce67dc2d.js.map"
+      "path---index-405f9ab75d565f323d09.js",
+      "path---index-405f9ab75d565f323d09.js.map"
     ],
     "path---english-literature-dickens-and-wilde": [
       "path---english-literature-dickens-and-wilde-ae1f44736c632aa94192.js",
@@ -104,10 +104,6 @@
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
-    "path---italiano-definizioni": [
-      "path---italiano-definizioni-a82c101a30e986b758dd.js",
-      "path---italiano-definizioni-a82c101a30e986b758dd.js.map"
-    ],
     "path---italiano-gadda": [
       "path---italiano-gadda-e29da079384c48a59e44.js",
       "path---italiano-gadda-e29da079384c48a59e44.js.map"
@@ -129,14 +125,14 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-31fb51fef0902d5ccd95.js",
+      "app-dc1c9fffb4e285e5c9da.js",
       "build-js-styles.css",
-      "app-31fb51fef0902d5ccd95.js.map",
+      "app-dc1c9fffb4e285e5c9da.js.map",
       "build-js-styles.css.map"
     ],
     "path---italiano-leopardi": [
-      "path---italiano-leopardi-4fe7ff4a352864d1d032.js",
-      "path---italiano-leopardi-4fe7ff4a352864d1d032.js.map"
+      "path---italiano-leopardi-01add2c90d545d77c39f.js",
+      "path---italiano-leopardi-01add2c90d545d77c39f.js.map"
     ],
     "path---storia-la-rivoluzione-bolscevica-e-il-biennio-rosso": [
       "path---storia-la-rivoluzione-bolscevica-e-il-biennio-rosso-1e36b1a9b0c29d6516de.js",
